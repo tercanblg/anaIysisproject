@@ -1,23 +1,10 @@
-# DataAnalysisWithJupyterNotebook
+
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-monthly-green.svg)&nbsp;
 
- Data Analysis With Jupyter Notebook In Python 3.6+
 
-- [DataAnalysisWithJupyterNotebook](#dataanalysiswithjupyternotebook)
-  - [Introduction](#introduction)
-  - [How To Run](#how-to-run)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Support](#support)
-  - [Roadmap](#roadmap)
-  - [Contributing](#contributing)
-  - [Authors and acknowledgment](#authors-and-acknowledgment)
-  - [License](#license)
-  - [Project status](#project-status)
-  - [Author](#author)
   
 ## Introduction
 
@@ -77,12 +64,3 @@ For open source projects,Under MIT License.
 
 ## Project status
 
-## Author
-
-- Project : DataAnalysisWithJupyterNoteBook
-- Author  : CodePerfectPlus
-- Language : Python
-- Github : <https://github.com/codePerfectPlus>
-- Website : <https://codeperfectplus.herokuapp.com/>
-# anaIysisproject
-# anaIysisproject
