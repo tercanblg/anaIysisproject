@@ -8,12 +8,12 @@
   
 ## Introduction
 
-- India Import Export Analysis
+ Import Export Analysis
 - Us Border Crossing Analysis
 - Boston Housing Dataset
-- Crime Rate In India
+- Crime Rate 
 - Employee Compensation Analysis
-- Military Expend India Analysis
+- Military Expend  Analysis
 
 ## How To Run
 
